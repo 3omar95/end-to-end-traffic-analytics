@@ -51,7 +51,7 @@ The aim of this project is to design an intelligent monitoring system to:
 - *Time features* (hour, day, weekday) strongly influenced traffic flow.  
 - *Weather* had *minimal impact* on vehicle volume.  
 - Roads with *more lanes* consistently carried higher traffic.
--Evaluation results for the LSTM and ConvLSTM models are provided in the excel file. [Models Volume Traffic Forecasting Evaluation](https://github.com/3omar95/end-to-end-traffic-analytics/blob/main/assets/Models%20volume%20traffic%20forecasting.xlsx) 
+- Evaluation results for the LSTM and ConvLSTM models are provided in the file. [Models Volume Traffic Forecasting Evaluation](https://github.com/3omar95/end-to-end-traffic-analytics/blob/main/assets/Models%20volume%20traffic%20forecasting.xlsx) 
 
 📌 *Vehicle Detection* – YOLOv8 + BYTETrack achieved accurate lane-based counts.  
 📌 *Forecasting* – XGBoost with PCA consistently outperformed deep learning models.  
