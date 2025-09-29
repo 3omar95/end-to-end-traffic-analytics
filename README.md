@@ -58,7 +58,7 @@ The aim of this project is to design an intelligent monitoring system to:
 ### Vehicle Detection & Tracking  
 YOLOv8 + BYTETrack achieved accurate lane-based vehicle counts.
 
-![Tracking Model Output](assets/figure_31.png)
+![Tracking Model Output](assets/Tracking Model Output.png)
 
 ---
 
