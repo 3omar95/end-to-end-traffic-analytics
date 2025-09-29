@@ -1,7 +1,10 @@
 # 🚦 End-to-End Traffic Forecasting System  
 
 This repository contains my *Master’s Graduation Project in Data Science* at *Northumbria University*.  
-The project is a complete pipeline combining *Computer Vision, **Machine Learning Forecasting, and **Web Deployment* to deliver a traffic monitoring and prediction system.  
+The project is a complete pipeline combining 
+*Computer Vision, 
+**Machine Learning Forecasting, and 
+**Web Deployment* to deliver a traffic monitoring and prediction system.  
 
 ---
 
