@@ -77,7 +77,7 @@ The system was deployed using *Dash* and *Plotly*, providing:
 - Dashboard presenting *forecasts, trends, and insights*.  
 
 
-![Web Interface](assets/figure_34.png)
+![Web Interface](https://github.com/3omar95/end-to-end-traffic-analytics/blob/main/assets/Web%20Interface.jpg)
 
 ---
 
