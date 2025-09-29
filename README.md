@@ -55,19 +55,29 @@ The aim of this project is to design an intelligent monitoring system to:
 📌 *Vehicle Detection* – YOLOv8 + BYTETrack achieved accurate lane-based counts.  
 📌 *Forecasting* – XGBoost with PCA consistently outperformed deep learning models.  
 
+### Vehicle Detection & Tracking  
+YOLOv8 + BYTETrack achieved accurate lane-based vehicle counts.
+
+![Tracking Model Output](assets/figure_31.png)
+
 ---
 
-## 💻 Final Deployment Interface  
-The system was deployed using *Dash*, providing:  
+### Forecasting Models Evaluation  
+XGBoost with PCA achieved the best overall performance compared to LSTM, GRU, and ConvLSTM.
+
+![Forecasting Models Evaluation](assets/figure_33.png)
+
+---
+
+### Web Deployment Interface  
+The system was deployed using *Dash* and *Plotly*, providing:  
 - Tabs for *Vehicle Counting* and *Forecasting*.  
 - Interactive visualizations with *Plotly*.  
 - User inputs for selecting station/location.  
 - Dashboard presenting *forecasts, trends, and insights*.  
 
-📸 Screenshots:  
-- Vehicle Tracking (YOLOv8 + BYTETrack)  
-- Forecasting Results & Metrics  
-- Deployed Web Dashboard  
+
+![Web Interface](assets/figure_34.png)
 
 ---
 
