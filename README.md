@@ -65,7 +65,7 @@ YOLOv8 + BYTETrack achieved accurate lane-based vehicle counts.
 ### Forecasting Models Evaluation  
 XGBoost with PCA achieved the best overall performance compared to LSTM, GRU, and ConvLSTM.
 
-![Forecasting Models Evaluation](assets/figure_33.png)
+![Forecasting Models Evaluation](https://github.com/3omar95/end-to-end-traffic-analytics/blob/main/assets/Forecasting%20Models%20Evaluation.png)
 
 ---
 
