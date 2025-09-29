@@ -92,8 +92,7 @@ The system was deployed using *Dash* and *Plotly*, providing:
 ---
 
 ## 🔗 Resources  
-
-- 📂 *Source Code & Notebooks*: [Google Drive Repository](https://drive.google.com/drive/folders/1hU5GHbE47gstaFcwrr3CpgQAXeB1nZKV?usp=drive_link)  
+ 
 - 📂 *Traffic & Weather Datasets*: [MnDOT + Weather Data](https://drive.google.com/drive/folders/1f4xcXT4rdOYEy28M2Gte5-8NoEdIMeOt?usp=drive_link)  
 
 ---
